@@ -1,6 +1,6 @@
  function Home() {
     return (
-        <h1>Michelle Eu Te Amo</h1>
+        <h1>Clone Tabnews</h1>
     )
  }
 
