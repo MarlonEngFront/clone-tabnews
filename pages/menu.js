@@ -8,7 +8,7 @@ export default function menuPage() {
       <div style={{maxWidth: "100%", margin: "0 auto" }}>
         <div style={{ position: "relative", paddingBottom: "56.25%", height: 0 }}>
           <embed
-            src="https://webportal.nowonlinedev.clarobrasil.mobi/embed/2145937"
+            src="https://now-fe-next.hlg-netnow.net/embed/2145937"
             width="100%"
             height="100%"
             style={{ position: "absolute", top: 0, left: 0 }}
